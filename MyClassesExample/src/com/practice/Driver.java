@@ -9,7 +9,7 @@ public class Driver {
 		Car porsche = new Car(4, "quiet", true, "Bose Stereo");
 		porsche.drive();
 		
-		Motorcycle Harley = new Motorcycle();
+		Motorcycle Suzuki = new Motorcycle(2, "Loud");
 	}
 
 }
